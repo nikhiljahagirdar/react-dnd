@@ -1,0 +1,13 @@
+{
+  "id": "page-1",
+  "name": "Sample Page",
+  "blocks": [
+    {
+      "id": "text-p0m3s5",
+      "type": "text",
+      "props": {
+        "text": "This is the default layout. Go to the builder to create a new one and save it here!"
+      }
+    }
+  ]
+}

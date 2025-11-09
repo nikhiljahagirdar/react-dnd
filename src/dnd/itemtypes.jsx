@@ -1,0 +1,4 @@
+export const ItemTypes = {
+  PALETTE_BLOCK: 'PALETTE_BLOCK',
+  CANVAS_BLOCK: 'CANVAS_BLOCK',
+};
